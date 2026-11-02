@@ -1,0 +1,15 @@
+{
+  "name": "health-beta",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Health quality web app: sign in and see your open quality issues",
+  "type": "module",
+  "main": "server.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
